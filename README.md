@@ -5,7 +5,7 @@ Projeto individual ao qual foi proposto a modelagem de um banco de dados que vai
 
 Esse projeto teve como finalidade a aplicação do conceito de banco de dados e o uso da ferramenta MYSQL.
 
-![preview](.img/Sql.jpeg)
+![imagem modelo feito SQL](./img/Sql.jpeg)
 
 ## :hammer_and_wrench: Ferramentas utilizadas
 * Apache
@@ -24,7 +24,9 @@ R: De forma geral todos possuem o campo ID, que são gerados automatico a cada n
 R: Estão relacionadas através de chaves primárias e estrangeiras. E cada entidade possui uma relação de cardinalidade. Neste projeto está presente o 1:1 e 1:N. 
 
 ## Modelo Conceitual
-![preview](./img/Diagrama_conceitual_md4.jpg)
+![imagem diagrama conceitual](./img/Diagrama_conceitual_md4.jpg)
+
+---
 
 ## Modelo Lógico
-![preview](.img/PI_modelo_logico_md4.jpg)
+![imagem diagrama lógico](./img/PI_modelo_logico_md4.jpg)
