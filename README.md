@@ -5,7 +5,7 @@ Projeto individual ao qual foi proposto a modelagem de um banco de dados que vai
 
 Esse projeto teve como finalidade a aplicação do conceito de banco de dados e o uso da ferramenta MYSQL.
 
-![preview](./CSS/img/Sql.jpeg)
+![preview](.img/Sql.jpeg)
 
 ## :hammer_and_wrench: Ferramentas utilizadas
 * Apache
